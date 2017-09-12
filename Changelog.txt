@@ -1,0 +1,18 @@
+Development Changelog:
+
+-14/08/2017-
++User profile's name or Folders' name contains the symbol "'" is not supported yet
++When a tab is closed, the contents in the closed tab won't active (Like when the tab is closed, Youtube still playing)
+
+-13/08/2017-
++Added ability to change download path (If the user profile has the "'" symbol then it might download nowhere)
+
+-12/08/2017-
++Added ability to change settings (the Config button)
++Added ability to change Default Homepage and User agent string
++Changed "Runfox Beta" to "Runfox Alpha"
+
+-11/08/2017-
++The first browser's update
++Added auto updater
++Changed user agent to Gecko/Firefox 45.0
